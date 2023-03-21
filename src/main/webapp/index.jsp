@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login Form</title>
+    <title>Login Form INFO PAGE DEPLOYMENT BY SAILOKESH BASAVA</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
