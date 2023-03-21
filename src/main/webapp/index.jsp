@@ -70,14 +70,14 @@
       <fieldset class="sub-container" id="address-history">
         <h2 class="sub-heading">Address History</h2>
         <hr>
-        <h3 class="small-heading">Are you currently a UK resident?</h3>
+        <h3 class="small-heading">Are you currently a india resident?</h3>
         <label for="yes" class="radio-label">
-          <input class="radio-input" name="UK-res" value="yes" id="yes" type="radio">Yes</input>
+          <input class="radio-input" name="india-res" value="yes" id="yes" type="radio">Yes</input>
         </label>
         <label for="no" class="radio-label">
-          <input class="radio-input" name="UK-res" value="no" id="no" type="radio">No</input>
+          <input class="radio-input" name="india-res" value="no" id="no" type="radio">No</input>
         </label>
-        <p id="non-uk">We're really sorry. We currently only offer banking services to UK residents.</p>
+        <p id="non-indian">We're really sorry. We currently only offer banking services to india residents.</p>
         <div id="current-address">
           <h3 class="small-heading">Current Address</h3>
           <label for="line1" class="standard-label">
