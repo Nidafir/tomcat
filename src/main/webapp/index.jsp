@@ -9,7 +9,7 @@
 
   <body>
   <div class="container">
-    <h1 class="main-header">Bank Account Application Form deployment using WEBSERVER By SAILOKESH</h1>
+    <h1 class="main-header">Bank Account Application Form deployment using WEBSERVER By NIDA</h1>
     <hr>
     <form id="app-form" action="">
     <fieldset class="sub-container" id="basic-details">
